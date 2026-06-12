@@ -1,0 +1,6 @@
+numpy
+matplotlib
+scipy
+tifffile
+ipywidgets
+notebook

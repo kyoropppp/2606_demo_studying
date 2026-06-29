@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /mnt/c/2606_demos status)",
+      "Bash(git -C /mnt/c/2606_demos diff notebooks/04_mnist_cnn.ipynb)",
+      "Bash(git *)",
+      "Bash(python3 *)"
+    ]
+  }
+}
